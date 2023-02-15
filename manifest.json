@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "localize 17lands",
+    "description": "Insert Japanese card name",
+    "version": "0.1",
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["activeTab", "scripting"],
+    "action": {}
+}
