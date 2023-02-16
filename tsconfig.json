@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      // ソースマップを有効化
+      "sourceMap": true,
+      // TSはECMAScript 5に変換
+      "target": "ES5",
+      // TSのモジュールはES Modulesとして出力
+      "module": "ESNext",
+      // 厳密モードとして設定
+      "strict": true,
+      "moduleResolution": "node",
+      "resolveJsonModule": true,
+      "allowSyntheticDefaultImports": true,
+    }
+  }
