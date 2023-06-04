@@ -1,0 +1,262 @@
+[
+  {
+    "nameEn": "Aegar, the Freezing Flame",
+    "nameJa": "氷結する火炎、エーガー"
+  },
+  {
+    "nameEn": "Anafenza, Kin-Tree Spirit",
+    "nameJa": "族樹の精霊、アナフェンザ"
+  },
+  {
+    "nameEn": "Arixmethes, Slumbering Isle",
+    "nameJa": "まどろむ島、アリクスメテス"
+  },
+  {
+    "nameEn": "Atraxa, Praetors' Voice",
+    "nameJa": "法務官の声、アトラクサ"
+  },
+  {
+    "nameEn": "Atris, Oracle of Half-Truths",
+    "nameJa": "半真実の神託者、アトリス"
+  },
+  {
+    "nameEn": "Aurelia, the Warleader",
+    "nameJa": "戦導者オレリア"
+  },
+  {
+    "nameEn": "Ayara, First of Locthwain",
+    "nameJa": "ロークスワインの元首、アヤーラ"
+  },
+  {
+    "nameEn": "Baral, Chief of Compliance",
+    "nameJa": "遵法長、バラル"
+  },
+  {
+    "nameEn": "Brudiclad, Telchor Engineer",
+    "nameJa": "テルカーの技師、ブルーディクラッド"
+  },
+  {
+    "nameEn": "Captain Lannery Storm",
+    "nameJa": "風雲船長ラネリー"
+  },
+  {
+    "nameEn": "Daxos, Blessed by the Sun",
+    "nameJa": "太陽に祝福されしダクソス"
+  },
+  {
+    "nameEn": "Dina, Soul Steeper",
+    "nameJa": "魂浸し、ダイナ"
+  },
+  {
+    "nameEn": "Elesh Norn, Grand Cenobite",
+    "nameJa": "大修道士、エリシュ・ノーン"
+  },
+  {
+    "nameEn": "Emry, Lurker of the Loch",
+    "nameJa": "湖に潜む者、エムリー"
+  },
+  {
+    "nameEn": "Ezuri, Claw of Progress",
+    "nameJa": "進化の爪、エズーリ"
+  },
+  {
+    "nameEn": "Firesong and Sunspeaker",
+    "nameJa": "ファイアソングとサンスピーカー"
+  },
+  {
+    "nameEn": "Firja, Judge of Valor",
+    "nameJa": "武勇の審判者、ファーヤ"
+  },
+  {
+    "nameEn": "Fynn, the Fangbearer",
+    "nameJa": "牙持ち、フィン"
+  },
+  {
+    "nameEn": "Goreclaw, Terror of Qal Sisma",
+    "nameJa": "カル・シスマの恐怖、殺し爪"
+  },
+  {
+    "nameEn": "Grimgrin, Corpse-Born",
+    "nameJa": "死体生まれのグリムグリン"
+  },
+  {
+    "nameEn": "Gyruda, Doom of Depths",
+    "nameJa": "深海の破滅、ジャイルーダ"
+  },
+  {
+    "nameEn": "Horobi, Death's Wail",
+    "nameJa": "死者の嘆き、崩老卑"
+  },
+  {
+    "nameEn": "Imoti, Celebrant of Bounty",
+    "nameJa": "報奨の祝賀者、イモーティ"
+  },
+  {
+    "nameEn": "Inga Rune-Eyes",
+    "nameJa": "ルーン目のインガ"
+  },
+  {
+    "nameEn": "Jegantha, the Wellspring",
+    "nameJa": "湧き出る源、ジェガンサ"
+  },
+  {
+    "nameEn": "Jin-Gitaxias, Core Augur",
+    "nameJa": "核の占い師、ジン＝ギタクシアス"
+  },
+  {
+    "nameEn": "Judith, the Scourge Diva",
+    "nameJa": "災いの歌姫、ジュディス"
+  },
+  {
+    "nameEn": "Juri, Master of the Revue",
+    "nameJa": "一座の支配人、ジョーリ"
+  },
+  {
+    "nameEn": "Kaheera, the Orphanguard",
+    "nameJa": "孤児護り、カヒーラ"
+  },
+  {
+    "nameEn": "Kenrith, the Returned King",
+    "nameJa": "帰還した王、ケンリス"
+  },
+  {
+    "nameEn": "Keruga, the Macrosage",
+    "nameJa": "巨智、ケルーガ"
+  },
+  {
+    "nameEn": "Kroxa, Titan of Death's Hunger",
+    "nameJa": "死の飢えのタイタン、クロクサ"
+  },
+  {
+    "nameEn": "Kwende, Pride of Femeref",
+    "nameJa": "フェメレフの誇り、クェンデ"
+  },
+  {
+    "nameEn": "Lathiel, the Bounteous Dawn",
+    "nameJa": "寛大な夜明け、ラシエル"
+  },
+  {
+    "nameEn": "Lurrus of the Dream-Den",
+    "nameJa": "夢の巣のルールス"
+  },
+  {
+    "nameEn": "Lutri, the Spellchaser",
+    "nameJa": "呪文追い、ルーツリー"
+  },
+  {
+    "nameEn": "Niv-Mizzet Reborn",
+    "nameJa": "ニヴ＝ミゼット再誕"
+  },
+  {
+    "nameEn": "Obosh, the Preypiercer",
+    "nameJa": "獲物貫き、オボシュ"
+  },
+  {
+    "nameEn": "Radha, Coalition Warlord",
+    "nameJa": "連合の大将軍、ラーダ"
+  },
+  {
+    "nameEn": "Raff, Weatherlight Stalwart",
+    "nameJa": "ウェザーライトの重鎮、ラフ"
+  },
+  {
+    "nameEn": "Ragavan, Nimble Pilferer",
+    "nameJa": "敏捷なこそ泥、ラガバン"
+  },
+  {
+    "nameEn": "Renata, Called to the Hunt",
+    "nameJa": "狩りに喚ばれしレナータ"
+  },
+  {
+    "nameEn": "Reyav, Master Smith",
+    "nameJa": "練達の職人、レヤブ"
+  },
+  {
+    "nameEn": "Rona, Sheoldred's Faithful",
+    "nameJa": "シェオルドレッドの心酔者、ローナ"
+  },
+  {
+    "nameEn": "Seizan, Perverter of Truth",
+    "nameJa": "真実を捻じ曲げるもの、逝斬"
+  },
+  {
+    "nameEn": "Shanna, Sisay's Legacy",
+    "nameJa": "シッセイの後裔、シャナ"
+  },
+  {
+    "nameEn": "Sheoldred, Whispering One",
+    "nameJa": "囁く者、シェオルドレッド"
+  },
+  {
+    "nameEn": "Skithiryx, the Blight Dragon",
+    "nameJa": "荒廃のドラゴン、スキジリクス"
+  },
+  {
+    "nameEn": "Squee, the Immortal",
+    "nameJa": "不死身、スクイー"
+  },
+  {
+    "nameEn": "Sram, Senior Edificer",
+    "nameJa": "上級建設官、スラム"
+  },
+  {
+    "nameEn": "Taigam, Ojutai Master",
+    "nameJa": "オジュタイの達人、テイガム"
+  },
+  {
+    "nameEn": "Tetsuko Umezawa, Fugitive",
+    "nameJa": "逃亡者、梅澤哲子"
+  },
+  {
+    "nameEn": "Teysa Karlov",
+    "nameJa": "テイサ・カルロフ"
+  },
+  {
+    "nameEn": "Thalia, Guardian of Thraben",
+    "nameJa": "スレイベンの守護者、サリア"
+  },
+  {
+    "nameEn": "Tymaret, Chosen from Death",
+    "nameJa": "死より選ばれしティマレット"
+  },
+  {
+    "nameEn": "Umori, the Collector",
+    "nameJa": "集めるもの、ウモーリ"
+  },
+  {
+    "nameEn": "Urabrask the Hidden",
+    "nameJa": "隠れしウラブラスク"
+  },
+  {
+    "nameEn": "Valduk, Keeper of the Flame",
+    "nameJa": "炎の番人、ヴァルダーク"
+  },
+  {
+    "nameEn": "Vorinclex, Voice of Hunger",
+    "nameJa": "飢餓の声、ヴォリンクレックス"
+  },
+  {
+    "nameEn": "Yargle, Glutton of Urborg",
+    "nameJa": "アーボーグの暴食、ヤーグル"
+  },
+  {
+    "nameEn": "Yarok, the Desecrated",
+    "nameJa": "冒涜されたもの、ヤロク"
+  },
+  {
+    "nameEn": "Yedora, Grave Gardener",
+    "nameJa": "霊園の庭師、イェドラ"
+  },
+  {
+    "nameEn": "Yorion, Sky Nomad",
+    "nameJa": "空を放浪するもの、ヨーリオン"
+  },
+  {
+    "nameEn": "Zada, Hedron Grinder",
+    "nameJa": "面晶体の掘削者、ザダ"
+  },
+  {
+    "nameEn": "Zirda, the Dawnwaker",
+    "nameJa": "黎明起こし、ザーダ"
+  }
+]

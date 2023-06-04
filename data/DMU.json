@@ -1,0 +1,702 @@
+[
+  {
+    "nameEn": "Academy Loremaster",
+    "nameJa": "アカデミーの伝承師"
+  },
+  {
+    "nameEn": "Academy Wall",
+    "nameJa": "アカデミーの壁"
+  },
+  {
+    "nameEn": "Adarkar Wastes",
+    "nameJa": "アダーカー荒原"
+  },
+  {
+    "nameEn": "Aether Channeler",
+    "nameJa": "霊気の媒介者"
+  },
+  {
+    "nameEn": "Aggressive Sabotage",
+    "nameJa": "強引な妨害"
+  },
+  {
+    "nameEn": "Ajani, Sleeper Agent",
+    "nameJa": "Ajani, Sleeper Agent"
+  },
+  {
+    "nameEn": "Anointed Peacekeeper",
+    "nameJa": "選定された平和の番人"
+  },
+  {
+    "nameEn": "Archangel of Wrath",
+    "nameJa": "怒りの大天使"
+  },
+  {
+    "nameEn": "Argivian Cavalier",
+    "nameJa": "アルガイヴの騎兵"
+  },
+  {
+    "nameEn": "Argivian Phalanx",
+    "nameJa": "アルガイヴの密集軍"
+  },
+  {
+    "nameEn": "Aron, Benalia's Ruin",
+    "nameJa": "ベナリアの堕落者、アロン"
+  },
+  {
+    "nameEn": "Artillery Blast",
+    "nameJa": "弩弓破"
+  },
+  {
+    "nameEn": "Astor, Bearer of Blades",
+    "nameJa": "刃を持つ者、アスター"
+  },
+  {
+    "nameEn": "Automatic Librarian",
+    "nameJa": "自動司書"
+  },
+  {
+    "nameEn": "Baird, Argivian Recruiter",
+    "nameJa": "アルガイヴの徴募人、ベイルド"
+  },
+  {
+    "nameEn": "Balduvian Atrocity",
+    "nameJa": "バルデュヴィアの非道"
+  },
+  {
+    "nameEn": "Balduvian Berserker",
+    "nameJa": "バルデュヴィアの狂戦士"
+  },
+  {
+    "nameEn": "Balmor, Battlemage Captain",
+    "nameJa": "戦闘魔道士の隊長、バルモア"
+  },
+  {
+    "nameEn": "Barkweave Crusher",
+    "nameJa": "樹皮織りの破壊者"
+  },
+  {
+    "nameEn": "Battlefly Swarm",
+    "nameJa": "戦闘バエの群れ"
+  },
+  {
+    "nameEn": "Battle-Rage Blessing",
+    "nameJa": "激しい闘いの祝福"
+  },
+  {
+    "nameEn": "Battlewing Mystic",
+    "nameJa": "戦羽の神秘家"
+  },
+  {
+    "nameEn": "Benalish Faithbonder",
+    "nameJa": "Benalish Faithbonder"
+  },
+  {
+    "nameEn": "Benalish Sleeper",
+    "nameJa": "ベナリアの潜伏工作員"
+  },
+  {
+    "nameEn": "Bite Down",
+    "nameJa": "噛み締め"
+  },
+  {
+    "nameEn": "Blight Pile",
+    "nameJa": "荒廃の塊"
+  },
+  {
+    "nameEn": "Bog Badger",
+    "nameJa": "沼アナグマ"
+  },
+  {
+    "nameEn": "Bone Splinters",
+    "nameJa": "骨の粉砕"
+  },
+  {
+    "nameEn": "Bortuk Bonerattle",
+    "nameJa": "ガリ骨のボータック"
+  },
+  {
+    "nameEn": "Braids, Arisen Nightmare",
+    "nameJa": "甦りし悪夢、ブレイズ"
+  },
+  {
+    "nameEn": "Braids's Frightful Return",
+    "nameJa": "ブレイズの恐るべき復活"
+  },
+  {
+    "nameEn": "Briar Hydra",
+    "nameJa": "茨のハイドラ"
+  },
+  {
+    "nameEn": "Broken Wings",
+    "nameJa": "壊れた翼"
+  },
+  {
+    "nameEn": "Captain's Call",
+    "nameJa": "隊長の号令"
+  },
+  {
+    "nameEn": "Caves of Koilos",
+    "nameJa": "コイロスの洞窟"
+  },
+  {
+    "nameEn": "Chaotic Transformation",
+    "nameJa": "混沌性変異"
+  },
+  {
+    "nameEn": "Charismatic Vanguard",
+    "nameJa": "カリスマ溢れる先兵"
+  },
+  {
+    "nameEn": "Choking Miasma",
+    "nameJa": "締めつける瘴気"
+  },
+  {
+    "nameEn": "Citizen's Arrest",
+    "nameJa": "市民の拘束"
+  },
+  {
+    "nameEn": "Cleaving Skyrider",
+    "nameJa": "肉裂きの空乗り"
+  },
+  {
+    "nameEn": "Clockwork Drawbridge",
+    "nameJa": "機械仕掛けの跳ね橋"
+  },
+  {
+    "nameEn": "Coalition Skyknight",
+    "nameJa": "連合の空騎士"
+  },
+  {
+    "nameEn": "Coalition Warbrute",
+    "nameJa": "連合の戦暴者"
+  },
+  {
+    "nameEn": "Colossal Growth",
+    "nameJa": "壮大な成長"
+  },
+  {
+    "nameEn": "Combat Research",
+    "nameJa": "戦闘研究"
+  },
+  {
+    "nameEn": "Contaminated Aquifer",
+    "nameJa": "汚染された帯水層"
+  },
+  {
+    "nameEn": "Coral Colony",
+    "nameJa": "珊瑚の群棲"
+  },
+  {
+    "nameEn": "Cosmic Epiphany",
+    "nameJa": "星界の天啓"
+  },
+  {
+    "nameEn": "Crystal Grotto",
+    "nameJa": "水晶の岩屋"
+  },
+  {
+    "nameEn": "Cult Conscript",
+    "nameJa": "教団の徴集兵"
+  },
+  {
+    "nameEn": "Cut Down",
+    "nameJa": "切り崩し"
+  },
+  {
+    "nameEn": "Danitha, Benalia's Hope",
+    "nameJa": "ベナリアの希望、ダニサ"
+  },
+  {
+    "nameEn": "Deathbloom Gardener",
+    "nameJa": "Deathbloom Gardener"
+  },
+  {
+    "nameEn": "Defiler of Dreams",
+    "nameJa": "夢を穢すもの"
+  },
+  {
+    "nameEn": "Defiler of Faith",
+    "nameJa": "信仰を穢すもの"
+  },
+  {
+    "nameEn": "Defiler of Flesh",
+    "nameJa": "肉を穢すもの"
+  },
+  {
+    "nameEn": "Defiler of Instinct",
+    "nameJa": "本能を穢すもの"
+  },
+  {
+    "nameEn": "Defiler of Vigor",
+    "nameJa": "活力を穢すもの"
+  },
+  {
+    "nameEn": "Destroy Evil",
+    "nameJa": "邪悪を打ち砕く"
+  },
+  {
+    "nameEn": "Djinn of the Fountain",
+    "nameJa": "泉のジン"
+  },
+  {
+    "nameEn": "Dragon Whelp",
+    "nameJa": "チビ・ドラゴン"
+  },
+  {
+    "nameEn": "Drag to the Bottom",
+    "nameJa": "底への引き込み"
+  },
+  {
+    "nameEn": "Eerie Soultender",
+    "nameJa": "不気味な魂の守護者"
+  },
+  {
+    "nameEn": "Elas il-Kor, Sadistic Pilgrim",
+    "nameJa": "残忍な巡礼者、コー追われのエラス"
+  },
+  {
+    "nameEn": "Electrostatic Infantry",
+    "nameJa": "静電式歩兵"
+  },
+  {
+    "nameEn": "Elfhame Wurm",
+    "nameJa": "エルフェイムのワーム"
+  },
+  {
+    "nameEn": "Elvish Hydromancer",
+    "nameJa": "エルフの水流術師"
+  },
+  {
+    "nameEn": "Ertai Resurrected",
+    "nameJa": "復活したアーテイ"
+  },
+  {
+    "nameEn": "Ertai's Scorn",
+    "nameJa": "アーテイの嘲笑"
+  },
+  {
+    "nameEn": "Essence Scatter",
+    "nameJa": "本質の散乱"
+  },
+  {
+    "nameEn": "Evolved Sleeper",
+    "nameJa": "進化した潜伏工作員"
+  },
+  {
+    "nameEn": "Extinguish the Light",
+    "nameJa": "光の消滅"
+  },
+  {
+    "nameEn": "Fires of Victory",
+    "nameJa": "勝利の炎"
+  },
+  {
+    "nameEn": "Floriferous Vinewall",
+    "nameJa": "花咲く蔦壁"
+  },
+  {
+    "nameEn": "Flowstone Infusion",
+    "nameJa": "流動石の注入"
+  },
+  {
+    "nameEn": "Flowstone Kavu",
+    "nameJa": "流動石のカヴー"
+  },
+  {
+    "nameEn": "Forest",
+    "nameJa": "森"
+  },
+  {
+    "nameEn": "Founding the Third Path",
+    "nameJa": "第三の道の創設"
+  },
+  {
+    "nameEn": "Frostfist Strider",
+    "nameJa": "霜拳の徘徊者"
+  },
+  {
+    "nameEn": "Furious Bellow",
+    "nameJa": "猛然たる怒声"
+  },
+  {
+    "nameEn": "Gaea's Might",
+    "nameJa": "ガイアの力"
+  },
+  {
+    "nameEn": "Garna, Bloodfist of Keld",
+    "nameJa": "ケルドの血拳、ガルナ"
+  },
+  {
+    "nameEn": "Geothermal Bog",
+    "nameJa": "地熱の沼"
+  },
+  {
+    "nameEn": "Ghitu Amplifier",
+    "nameJa": "ギトゥの増幅士"
+  },
+  {
+    "nameEn": "Gibbering Barricade",
+    "nameJa": "囈語のバリケード"
+  },
+  {
+    "nameEn": "Goblin Picker",
+    "nameJa": "ゴブリンのがらくた拾い"
+  },
+  {
+    "nameEn": "Golden Argosy",
+    "nameJa": "金色の大帆船"
+  },
+  {
+    "nameEn": "Griffin Protector",
+    "nameJa": "庇護のグリフィン"
+  },
+  {
+    "nameEn": "Guardian of New Benalia",
+    "nameJa": "新ベナリアの守護者"
+  },
+  {
+    "nameEn": "Hammerhand",
+    "nameJa": "槌手"
+  },
+  {
+    "nameEn": "Haughty Djinn",
+    "nameJa": "傲慢なジン"
+  },
+  {
+    "nameEn": "Haunted Mire",
+    "nameJa": "憑依されたぬかるみ"
+  },
+  {
+    "nameEn": "Haunting Figment",
+    "nameJa": "消えない想像体"
+  },
+  {
+    "nameEn": "Herd Migration",
+    "nameJa": "群れの渡り"
+  },
+  {
+    "nameEn": "Heroic Charge",
+    "nameJa": "英雄的突撃"
+  },
+  {
+    "nameEn": "Hero's Heirloom",
+    "nameJa": "英雄の家宝"
+  },
+  {
+    "nameEn": "Hexbane Tortoise",
+    "nameJa": "呪詛消しの亀"
+  },
+  {
+    "nameEn": "Hurler Cyclops",
+    "nameJa": "投げ手のサイクロプス"
+  },
+  {
+    "nameEn": "Hurloon Battle Hymn",
+    "nameJa": "ハールーンの戦賛歌"
+  },
+  {
+    "nameEn": "Idyllic Beachfront",
+    "nameJa": "理想的な浜方"
+  },
+  {
+    "nameEn": "Impede Momentum",
+    "nameJa": "勢いを挫く"
+  },
+  {
+    "nameEn": "Impulse",
+    "nameJa": "衝動"
+  },
+  {
+    "nameEn": "Inscribed Tablet",
+    "nameJa": "刻まれたタブレット"
+  },
+  {
+    "nameEn": "In Thrall to the Pit",
+    "nameJa": "奈落のとりこ"
+  },
+  {
+    "nameEn": "Island",
+    "nameJa": "島"
+  },
+  {
+    "nameEn": "Ivy, Gleeful Spellthief",
+    "nameJa": "陽気な呪文盗み、アイヴィー"
+  },
+  {
+    "nameEn": "Jaya, Fiery Negotiator",
+    "nameJa": "焦熱の交渉人、ヤヤ"
+  },
+  {
+    "nameEn": "Jaya's Firenado",
+    "nameJa": "ヤヤの火災旋風"
+  },
+  {
+    "nameEn": "Jhoira, Ageless Innovator",
+    "nameJa": "老いざる革新者、ジョイラ"
+  },
+  {
+    "nameEn": "Jodah's Codex",
+    "nameJa": "ジョダーの写本"
+  },
+  {
+    "nameEn": "Jodah, the Unifier",
+    "nameJa": "統べるもの、ジョダー"
+  },
+  {
+    "nameEn": "Join Forces",
+    "nameJa": "加勢"
+  },
+  {
+    "nameEn": "Joint Exploration",
+    "nameJa": "連携探索"
+  },
+  {
+    "nameEn": "Juniper Order Rootweaver",
+    "nameJa": "柏槙教団の樹根織り"
+  },
+  {
+    "nameEn": "Karn, Living Legacy",
+    "nameJa": "Karn, Living Legacy"
+  },
+  {
+    "nameEn": "Karn's Sylex",
+    "nameJa": "カーンの酒杯"
+  },
+  {
+    "nameEn": "Karplusan Forest",
+    "nameJa": "カープルーザンの森"
+  },
+  {
+    "nameEn": "Keldon Flamesage",
+    "nameJa": "ケルドの炎賢者"
+  },
+  {
+    "nameEn": "Keldon Strike Team",
+    "nameJa": "ケルドの急襲隊"
+  },
+  {
+    "nameEn": "King Darien XLVIII",
+    "nameJa": "国王ダリアン四十八世"
+  },
+  {
+    "nameEn": "Knight of Dawn's Light",
+    "nameJa": "曙光の騎士"
+  },
+  {
+    "nameEn": "Knight of Dusk's Shadow",
+    "nameJa": "暮影の騎士"
+  },
+  {
+    "nameEn": "Lagomos, Hand of Hatred",
+    "nameJa": "憎悪の手、ラゴモス"
+  },
+  {
+    "nameEn": "Leaf-Crowned Visionary",
+    "nameJa": "葉冠の幻想家"
+  },
+  {
+    "nameEn": "Leyline Binding",
+    "nameJa": "力線の束縛"
+  },
+  {
+    "nameEn": "Lightning Strike",
+    "nameJa": "稲妻の一撃"
+  },
+  {
+    "nameEn": "Liliana of the Veil",
+    "nameJa": "ヴェールのリリアナ"
+  },
+  {
+    "nameEn": "Linebreaker Baloth",
+    "nameJa": "戦線破りのベイロス"
+  },
+  {
+    "nameEn": "Llanowar Greenwidow",
+    "nameJa": "ラノワールの緑後家蜘蛛"
+  },
+  {
+    "nameEn": "Llanowar Loamspeaker",
+    "nameJa": "ラノワールの壌土語り"
+  },
+  {
+    "nameEn": "Llanowar Stalker",
+    "nameJa": "ラノワールの追跡者"
+  },
+  {
+    "nameEn": "Love Song of Night and Day",
+    "nameJa": "夜と昼の恋歌"
+  },
+  {
+    "nameEn": "Magnigoth Sentry",
+    "nameJa": "マグニゴスの歩哨"
+  },
+  {
+    "nameEn": "Meria, Scholar of Antiquity",
+    "nameJa": "古代学者、メリア"
+  },
+  {
+    "nameEn": "Meria's Outrider",
+    "nameJa": "メリアの先導"
+  },
+  {
+    "nameEn": "Mesa Cavalier",
+    "nameJa": "メサの騎兵"
+  },
+  {
+    "nameEn": "Meteorite",
+    "nameJa": "隕石"
+  },
+  {
+    "nameEn": "Micromancer",
+    "nameJa": "微小術師"
+  },
+  {
+    "nameEn": "Molten Monstrosity",
+    "nameJa": "Molten Monstrosity"
+  },
+  {
+    "nameEn": "Molten Tributary",
+    "nameJa": "溶鉄の支流"
+  },
+  {
+    "nameEn": "Monstrous War-Leech",
+    "nameJa": "怪物的戦ヒル"
+  },
+  {
+    "nameEn": "Mossbeard Ancient",
+    "nameJa": "古き苔髭"
+  },
+  {
+    "nameEn": "Mountain",
+    "nameJa": "山"
+  },
+  {
+    "nameEn": "Nael, Avizoa Aeronaut",
+    "nameJa": "エイヴィーゾアの空士、ナエル"
+  },
+  {
+    "nameEn": "Najal, the Storm Runner",
+    "nameJa": "嵐の走者、ナジャル"
+  },
+  {
+    "nameEn": "Negate",
+    "nameJa": "否認"
+  },
+  {
+    "nameEn": "Nemata, Primeval Warden",
+    "nameJa": "太古の番人、ネマタ"
+  },
+  {
+    "nameEn": "Nishoba Brawler",
+    "nameJa": "ニショーバの喧嘩屋"
+  },
+  {
+    "nameEn": "Phoenix Chick",
+    "nameJa": "フェニックスの雛"
+  },
+  {
+    "nameEn": "Phyrexian Espionage",
+    "nameJa": "ファイレクシア流諜報術"
+  },
+  {
+    "nameEn": "Phyrexian Missionary",
+    "nameJa": "ファイレクシアの宣教師"
+  },
+  {
+    "nameEn": "Phyrexian Rager",
+    "nameJa": "ファイレクシアの憤怒鬼"
+  },
+  {
+    "nameEn": "Phyrexian Vivisector",
+    "nameJa": "ファイレクシアの生体解剖者"
+  },
+  {
+    "nameEn": "Phyrexian Warhorse",
+    "nameJa": "ファイレクシアの軍馬"
+  },
+  {
+    "nameEn": "Pilfer",
+    "nameJa": "窃取"
+  },
+  {
+    "nameEn": "Pixie Illusionist",
+    "nameJa": "ピクシーの幻術師"
+  },
+  {
+    "nameEn": "Plains",
+    "nameJa": "平地"
+  },
+  {
+    "nameEn": "Plaza of Heroes",
+    "nameJa": "英雄の公有地"
+  },
+  {
+    "nameEn": "Prayer of Binding",
+    "nameJa": "束縛の祈り手"
+  },
+  {
+    "nameEn": "Protect the Negotiators",
+    "nameJa": "交渉団の保護"
+  },
+  {
+    "nameEn": "Queen Allenal of Ruadach",
+    "nameJa": "ルアダッハの女王オーリナル"
+  },
+  {
+    "nameEn": "Quirion Beastcaller",
+    "nameJa": "クウィリーオンの獣呼び"
+  },
+  {
+    "nameEn": "Radha, Coalition Warlord",
+    "nameJa": "連合の大将軍、ラーダ"
+  },
+  {
+    "nameEn": "Radha's Firebrand",
+    "nameJa": "ラーダの扇動者"
+  },
+  {
+    "nameEn": "Radiant Grove",
+    "nameJa": "光輝の木立ち"
+  },
+  {
+    "nameEn": "Raff, Weatherlight Stalwart",
+    "nameJa": "ウェザーライトの重鎮、ラフ"
+  },
+  {
+    "nameEn": "Ragefire Hellkite",
+    "nameJa": "怒り火のヘルカイト"
+  },
+  {
+    "nameEn": "Ratadrabik of Urborg",
+    "nameJa": "アーボーグのラタドラビック"
+  },
+  {
+    "nameEn": "Relic of Legends",
+    "nameJa": "伝説の秘宝"
+  },
+  {
+    "nameEn": "Resolute Reinforcements",
+    "nameJa": "毅然たる援軍"
+  },
+  {
+    "nameEn": "Rith, Liberated Primeval",
+    "nameJa": "解放されし太古、リース"
+  },
+  {
+    "nameEn": "Rivaz of the Claw",
+    "nameJa": "爪のライヴァズ"
+  },
+  {
+    "nameEn": "Rona, Sheoldred's Faithful",
+    "nameJa": "シェオルドレッドの心酔者、ローナ"
+  },
+  {
+    "nameEn": "Rona's Vortex",
+    "nameJa": "ローナの渦"
+  },
+  {
+    "nameEn": "Rulik Mons, Warren Chief",
+    "nameJa": "巣穴の長、ルリク・モンス"
+  }
+]

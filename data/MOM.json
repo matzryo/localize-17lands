@@ -1,0 +1,702 @@
+[
+  {
+    "nameEn": "Aerial Boost",
+    "nameJa": "空中ブースト"
+  },
+  {
+    "nameEn": "Akki Scrapchomper",
+    "nameJa": "屑鉄食いの悪忌"
+  },
+  {
+    "nameEn": "Alabaster Host Intercessor",
+    "nameJa": "雪花石の徒党の仲裁者"
+  },
+  {
+    "nameEn": "Alabaster Host Sanctifier",
+    "nameJa": "雪花石の徒党の聖別者"
+  },
+  {
+    "nameEn": "Ancient Imperiosaur",
+    "nameJa": "古の放漫トカゲ"
+  },
+  {
+    "nameEn": "Angelic Intervention",
+    "nameJa": "天使の介入"
+  },
+  {
+    "nameEn": "Arachnoid Adaptation",
+    "nameJa": "機械蜘蛛の順応"
+  },
+  {
+    "nameEn": "Archangel Elspeth",
+    "nameJa": "大天使エルズペス"
+  },
+  {
+    "nameEn": "Archpriest of Shadows",
+    "nameJa": "影の大司祭"
+  },
+  {
+    "nameEn": "Artistic Refusal",
+    "nameJa": "芸術的な拒絶"
+  },
+  {
+    "nameEn": "Assimilate Essence",
+    "nameJa": "本質の同化"
+  },
+  {
+    "nameEn": "Astral Wingspan",
+    "nameJa": "霊体の翼長"
+  },
+  {
+    "nameEn": "Atraxa's Fall",
+    "nameJa": "アトラクサの討死"
+  },
+  {
+    "nameEn": "Attentive Skywarden",
+    "nameJa": "注意深い空守り"
+  },
+  {
+    "nameEn": "Axgard Artisan",
+    "nameJa": "アクスガルドの職工"
+  },
+  {
+    "nameEn": "Baral and Kari Zev",
+    "nameJa": "バラルとカーリ・ゼヴ"
+  },
+  {
+    "nameEn": "Beamtown Beatstick",
+    "nameJa": "梁町の殴り棒"
+  },
+  {
+    "nameEn": "Bladed Battle-Fan",
+    "nameJa": "刃の鉄扇"
+  },
+  {
+    "nameEn": "Blighted Burgeoning",
+    "nameJa": "荒廃した芽ぐみ"
+  },
+  {
+    "nameEn": "Bloated Processor",
+    "nameJa": "ふくれた昇華者"
+  },
+  {
+    "nameEn": "Bloodfeather Phoenix",
+    "nameJa": "血羽根のフェニックス"
+  },
+  {
+    "nameEn": "Bloodfell Caves",
+    "nameJa": "血溜まりの洞窟"
+  },
+  {
+    "nameEn": "Blossoming Sands",
+    "nameJa": "花咲く砂地"
+  },
+  {
+    "nameEn": "Bola Slinger",
+    "nameJa": "ボーラ投石手"
+  },
+  {
+    "nameEn": "Boon-Bringer Valkyrie",
+    "nameJa": "加護をもたらす戦乙女"
+  },
+  {
+    "nameEn": "Borborygmos and Fblthp",
+    "nameJa": "腹音鳴らしとフブルスプ"
+  },
+  {
+    "nameEn": "Botanical Brawler",
+    "nameJa": "植物の喧嘩屋"
+  },
+  {
+    "nameEn": "Breach the Multiverse",
+    "nameJa": "多元宇宙の突破"
+  },
+  {
+    "nameEn": "Burning Sun's Fury",
+    "nameJa": "焼熱の太陽の激情"
+  },
+  {
+    "nameEn": "Chandra, Hope's Beacon",
+    "nameJa": "希望の標、チャンドラ"
+  },
+  {
+    "nameEn": "Change the Equation",
+    "nameJa": "方程式の改変"
+  },
+  {
+    "nameEn": "Chomping Kavu",
+    "nameJa": "食らいつくカヴー"
+  },
+  {
+    "nameEn": "Chrome Host Seedshark",
+    "nameJa": "金属の徒党の種子鮫"
+  },
+  {
+    "nameEn": "City on Fire",
+    "nameJa": "燃える都市"
+  },
+  {
+    "nameEn": "Collective Nightmare",
+    "nameJa": "集団的悪夢"
+  },
+  {
+    "nameEn": "Coming In Hot",
+    "nameJa": "灼熱の突撃"
+  },
+  {
+    "nameEn": "Compleated Huntmaster",
+    "nameJa": "完成化した猟匠"
+  },
+  {
+    "nameEn": "Complete the Circuit",
+    "nameJa": "回路の完成"
+  },
+  {
+    "nameEn": "Consuming Aetherborn",
+    "nameJa": "破壊的な霊基体"
+  },
+  {
+    "nameEn": "Converter Beast",
+    "nameJa": "改宗獣"
+  },
+  {
+    "nameEn": "Copper Host Crusher",
+    "nameJa": "銅の徒党の破壊屋"
+  },
+  {
+    "nameEn": "Corrupted Conviction",
+    "nameJa": "堕落した確信"
+  },
+  {
+    "nameEn": "Corruption of Towashi",
+    "nameJa": "都和市の堕落"
+  },
+  {
+    "nameEn": "Cosmic Hunger",
+    "nameJa": "星界の飢餓"
+  },
+  {
+    "nameEn": "Cragsmasher Yeti",
+    "nameJa": "岩山砕きのイエティ"
+  },
+  {
+    "nameEn": "Crystal Carapace",
+    "nameJa": "水晶の甲殻"
+  },
+  {
+    "nameEn": "Cut Short",
+    "nameJa": "割込み"
+  },
+  {
+    "nameEn": "Deadly Derision",
+    "nameJa": "命を奪う嘲笑"
+  },
+  {
+    "nameEn": "Deeproot Wayfinder",
+    "nameJa": "深根の道探し"
+  },
+  {
+    "nameEn": "Dismal Backwater",
+    "nameJa": "陰鬱な僻地"
+  },
+  {
+    "nameEn": "Disturbing Conversion",
+    "nameJa": "不穏な変換"
+  },
+  {
+    "nameEn": "Djeru and Hazoret",
+    "nameJa": "デジェルとハゾレト"
+  },
+  {
+    "nameEn": "Doomskar Warrior",
+    "nameJa": "ドゥームスカールの戦士"
+  },
+  {
+    "nameEn": "Drana and Linvala",
+    "nameJa": "ドラーナとリンヴァーラ"
+  },
+  {
+    "nameEn": "Dreg Recycler",
+    "nameJa": "屑肉の再利用者"
+  },
+  {
+    "nameEn": "Dusk Legion Duelist",
+    "nameJa": "薄暮軍団の決闘者"
+  },
+  {
+    "nameEn": "Elspeth's Smite",
+    "nameJa": "エルズペスの強打"
+  },
+  {
+    "nameEn": "Elvish Vatkeeper",
+    "nameJa": "エルフの桶守り"
+  },
+  {
+    "nameEn": "Enduring Bondwarden",
+    "nameJa": "忍耐の繋守り"
+  },
+  {
+    "nameEn": "Ephara's Dispersal",
+    "nameJa": "エファラの分散"
+  },
+  {
+    "nameEn": "Errant and Giada",
+    "nameJa": "エラントとジアーダ"
+  },
+  {
+    "nameEn": "Essence of Orthodoxy",
+    "nameJa": "正典の本質"
+  },
+  {
+    "nameEn": "Etched Familiar",
+    "nameJa": "刻まれた使い魔"
+  },
+  {
+    "nameEn": "Etched Host Doombringer",
+    "nameJa": "刻印の徒党の破滅運び"
+  },
+  {
+    "nameEn": "Expedition Lookout",
+    "nameJa": "探検隊の見張り"
+  },
+  {
+    "nameEn": "Eyes of Gitaxias",
+    "nameJa": "ギタクシアスの眼"
+  },
+  {
+    "nameEn": "Faerie Mastermind",
+    "nameJa": "フェアリーの黒幕"
+  },
+  {
+    "nameEn": "Failed Conversion",
+    "nameJa": "失敗した変換"
+  },
+  {
+    "nameEn": "Fairgrounds Trumpeter",
+    "nameJa": "博覧会場の吠え象"
+  },
+  {
+    "nameEn": "Fearless Skald",
+    "nameJa": "不敵なスカルド"
+  },
+  {
+    "nameEn": "Fertilid's Favor",
+    "nameJa": "ファーティリドの好意"
+  },
+  {
+    "nameEn": "Final Flourish",
+    "nameJa": "最期の一花"
+  },
+  {
+    "nameEn": "Flitting Guerrilla",
+    "nameJa": "飛び回るゲリラ"
+  },
+  {
+    "nameEn": "Flywheel Racer",
+    "nameJa": "飛車輪の競争車"
+  },
+  {
+    "nameEn": "Forest",
+    "nameJa": "森"
+  },
+  {
+    "nameEn": "Furnace Gremlin",
+    "nameJa": "焼炉のグレムリン"
+  },
+  {
+    "nameEn": "Furnace Host Charger",
+    "nameJa": "焼炉の徒党の突撃者"
+  },
+  {
+    "nameEn": "Furnace Reins",
+    "nameJa": "焼炉の手綱"
+  },
+  {
+    "nameEn": "Furtive Analyst",
+    "nameJa": "隠れる分析者"
+  },
+  {
+    "nameEn": "Ghalta and Mavren",
+    "nameJa": "ガルタとマーブレン"
+  },
+  {
+    "nameEn": "Gift of Compleation",
+    "nameJa": "完成化という名の贈り物"
+  },
+  {
+    "nameEn": "Glissa, Herald of Predation",
+    "nameJa": "捕食の伝令、グリッサ"
+  },
+  {
+    "nameEn": "Glistening Dawn",
+    "nameJa": "ぎらつく夜明け"
+  },
+  {
+    "nameEn": "Glistening Deluge",
+    "nameJa": "ぎらつく氾濫"
+  },
+  {
+    "nameEn": "Gloomfang Mauler",
+    "nameJa": "鬱牙のやっかいもの"
+  },
+  {
+    "nameEn": "Golden-Scale Aeronaut",
+    "nameJa": "黄金鱗の飛空士"
+  },
+  {
+    "nameEn": "Grafted Butcher",
+    "nameJa": "生体融合の解体者"
+  },
+  {
+    "nameEn": "Guardian of Ghirapur",
+    "nameJa": "ギラプールの守護者"
+  },
+  {
+    "nameEn": "Halo-Charged Skaab",
+    "nameJa": "光素蓄積のスカーブ"
+  },
+  {
+    "nameEn": "Halo Forager",
+    "nameJa": "光素を漁る者"
+  },
+  {
+    "nameEn": "Halo Hopper",
+    "nameJa": "光素跳び"
+  },
+  {
+    "nameEn": "Hangar Scrounger",
+    "nameJa": "格納庫のたかり屋"
+  },
+  {
+    "nameEn": "Hidetsugu and Kairi",
+    "nameJa": "碑出告と開璃"
+  },
+  {
+    "nameEn": "Hoarding Broodlord",
+    "nameJa": "溜め込む親玉"
+  },
+  {
+    "nameEn": "Ichor Drinker",
+    "nameJa": "胆液飲み"
+  },
+  {
+    "nameEn": "Ichor Shade",
+    "nameJa": "胆液の影"
+  },
+  {
+    "nameEn": "Infected Defector",
+    "nameJa": "感染した離反者"
+  },
+  {
+    "nameEn": "Inga and Esika",
+    "nameJa": "インガとエシカ"
+  },
+  {
+    "nameEn": "Injector Crocodile",
+    "nameJa": "注入クロコダイル"
+  },
+  {
+    "nameEn": "Inspired Charge",
+    "nameJa": "鼓舞する突撃"
+  },
+  {
+    "nameEn": "Interdisciplinary Mascot",
+    "nameJa": "学際的なマスコット"
+  },
+  {
+    "nameEn": "Into the Fire",
+    "nameJa": "炎の中へ"
+  },
+  {
+    "nameEn": "Iridescent Blademaster",
+    "nameJa": "玉虫色の刃使い"
+  },
+  {
+    "nameEn": "Island",
+    "nameJa": "島"
+  },
+  {
+    "nameEn": "Joyful Stormsculptor",
+    "nameJa": "愉快な嵐彫刻家"
+  },
+  {
+    "nameEn": "Jungle Hollow",
+    "nameJa": "ジャングルのうろ穴"
+  },
+  {
+    "nameEn": "Kami of Whispered Hopes",
+    "nameJa": "囁かれる希望の神"
+  },
+  {
+    "nameEn": "Karsus Depthguard",
+    "nameJa": "カーサスの深淵守護兵"
+  },
+  {
+    "nameEn": "Kitesail",
+    "nameJa": "帆凧"
+  },
+  {
+    "nameEn": "Kithkin Billyrider",
+    "nameJa": "キスキンの雄山羊乗り"
+  },
+  {
+    "nameEn": "Knight-Errant of Eos",
+    "nameJa": "イーオスの遍歴の騎士"
+  },
+  {
+    "nameEn": "Knight of the New Coalition",
+    "nameJa": "新たな連合の騎士"
+  },
+  {
+    "nameEn": "Kogla and Yidaro",
+    "nameJa": "コグラとイダーロ"
+  },
+  {
+    "nameEn": "Kor Halberd",
+    "nameJa": "コーの矛槍"
+  },
+  {
+    "nameEn": "Kroxa and Kunoros",
+    "nameJa": "クロクサとクノロス"
+  },
+  {
+    "nameEn": "Lithomantic Barrage",
+    "nameJa": "石術の連射"
+  },
+  {
+    "nameEn": "Marauding Dreadship",
+    "nameJa": "無法の戦慄艦"
+  },
+  {
+    "nameEn": "Marshal of Zhalfir",
+    "nameJa": "ザルファーの司令官"
+  },
+  {
+    "nameEn": "Meeting of Minds",
+    "nameJa": "精神の交差"
+  },
+  {
+    "nameEn": "Merciless Repurposing",
+    "nameJa": "無慈悲な再利用"
+  },
+  {
+    "nameEn": "Mirran Banesplitter",
+    "nameJa": "ミラディンの悪断"
+  },
+  {
+    "nameEn": "Mirrodin Avenged",
+    "nameJa": "報復したミラディン"
+  },
+  {
+    "nameEn": "Mirror-Shield Hoplite",
+    "nameJa": "鏡の盾の重装歩兵"
+  },
+  {
+    "nameEn": "Moment of Truth",
+    "nameJa": "決定的瞬間"
+  },
+  {
+    "nameEn": "Monastery Mentor",
+    "nameJa": "僧院の導師"
+  },
+  {
+    "nameEn": "Mountain",
+    "nameJa": "山"
+  },
+  {
+    "nameEn": "Mutagen Connoisseur",
+    "nameJa": "変異体の鑑定人"
+  },
+  {
+    "nameEn": "Nahiri's Warcrafting",
+    "nameJa": "ナヒリの戦争術"
+  },
+  {
+    "nameEn": "Negate",
+    "nameJa": "否認"
+  },
+  {
+    "nameEn": "Nezumi Informant",
+    "nameJa": "鼠の密通者"
+  },
+  {
+    "nameEn": "Norn's Inquisitor",
+    "nameJa": "ノーンの審問官"
+  },
+  {
+    "nameEn": "Oculus Whelp",
+    "nameJa": "眼魔の仔"
+  },
+  {
+    "nameEn": "Omen Hawker",
+    "nameJa": "お告げの行商人"
+  },
+  {
+    "nameEn": "Omnath, Locus of All",
+    "nameJa": "万物の座、オムナス"
+  },
+  {
+    "nameEn": "Onakke Javelineer",
+    "nameJa": "オナッケの投槍兵"
+  },
+  {
+    "nameEn": "Oracle of Tragedy",
+    "nameJa": "悲劇の神託者"
+  },
+  {
+    "nameEn": "Orthion, Hero of Lavabrink",
+    "nameJa": "ラバブリンクの英雄、オーシオン"
+  },
+  {
+    "nameEn": "Overgrown Pest",
+    "nameJa": "巨大化した害獣"
+  },
+  {
+    "nameEn": "Ozolith, the Shattered Spire",
+    "nameJa": "打ち砕かれた尖塔、オゾリス"
+  },
+  {
+    "nameEn": "Phyrexian Archivist",
+    "nameJa": "ファイレクシアの文書管理人"
+  },
+  {
+    "nameEn": "Phyrexian Awakening",
+    "nameJa": "ファイレクシアの覚醒"
+  },
+  {
+    "nameEn": "Phyrexian Censor",
+    "nameJa": "ファイレクシアの検閲官"
+  },
+  {
+    "nameEn": "Phyrexian Gargantua",
+    "nameJa": "ファイレクシアのガルガンチュア"
+  },
+  {
+    "nameEn": "Phyrexian Pegasus",
+    "nameJa": "ファイレクシアのペガサス"
+  },
+  {
+    "nameEn": "Pile On",
+    "nameJa": "全軍突撃"
+  },
+  {
+    "nameEn": "Placid Rottentail",
+    "nameJa": "物静かな腐敗尾"
+  },
+  {
+    "nameEn": "Plains",
+    "nameJa": "平地"
+  },
+  {
+    "nameEn": "Portent Tracker",
+    "nameJa": "前兆の追跡者"
+  },
+  {
+    "nameEn": "Preening Champion",
+    "nameJa": "羽づくろう勇者"
+  },
+  {
+    "nameEn": "Progenitor Exarch",
+    "nameJa": "太祖の総督"
+  },
+  {
+    "nameEn": "Protocol Knight",
+    "nameJa": "儀礼の騎士"
+  },
+  {
+    "nameEn": "Quintorius, Loremaster",
+    "nameJa": "伝承師、クイントリウス"
+  },
+  {
+    "nameEn": "Ral's Reinforcements",
+    "nameJa": "ラルの援軍"
+  },
+  {
+    "nameEn": "Rampaging Geoderm",
+    "nameJa": "猛り狂うジオダーム"
+  },
+  {
+    "nameEn": "Rampaging Raptor",
+    "nameJa": "猛り狂う猛竜"
+  },
+  {
+    "nameEn": "Rankle and Torbran",
+    "nameJa": "ランクルとトーブラン"
+  },
+  {
+    "nameEn": "Ravenous Sailback",
+    "nameJa": "貪欲な帆背びれ"
+  },
+  {
+    "nameEn": "Realmbreaker's Grasp",
+    "nameJa": "次元壊しの掌握"
+  },
+  {
+    "nameEn": "Realmbreaker, the Invasion Tree",
+    "nameJa": "侵略樹、次元壊し"
+  },
+  {
+    "nameEn": "Redcap Heelslasher",
+    "nameJa": "レッドキャップの踵斬り"
+  },
+  {
+    "nameEn": "Referee Squad",
+    "nameJa": "審判団"
+  },
+  {
+    "nameEn": "Render Inert",
+    "nameJa": "無力化"
+  },
+  {
+    "nameEn": "Rugged Highlands",
+    "nameJa": "岩だらけの高地"
+  },
+  {
+    "nameEn": "Ruins Recluse",
+    "nameJa": "遺跡のイトグモ"
+  },
+  {
+    "nameEn": "Saiba Cryptomancer",
+    "nameJa": "サイバの暗号術師"
+  },
+  {
+    "nameEn": "Sandstalker Moloch",
+    "nameJa": "砂追いのモロク"
+  },
+  {
+    "nameEn": "Scorn-Blade Berserker",
+    "nameJa": "軽蔑剣の狂戦士"
+  },
+  {
+    "nameEn": "Scoured Barrens",
+    "nameJa": "磨かれたやせ地"
+  },
+  {
+    "nameEn": "Scrappy Bruiser",
+    "nameJa": "気の強い暴れ者"
+  },
+  {
+    "nameEn": "Scrollshift",
+    "nameJa": "巻物変容"
+  },
+  {
+    "nameEn": "Sculpted Perfection",
+    "nameJa": "彫り込まれた完成態"
+  },
+  {
+    "nameEn": "Seal from Existence",
+    "nameJa": "存在の封印"
+  },
+  {
+    "nameEn": "Searing Barb",
+    "nameJa": "焼尽の逆刺"
+  },
+  {
+    "nameEn": "Seed of Hope",
+    "nameJa": "希望の種子"
+  },
+  {
+    "nameEn": "See Double",
+    "nameJa": "二重視"
+  }
+]

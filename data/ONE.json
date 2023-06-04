@@ -1,0 +1,702 @@
+[
+  {
+    "nameEn": "Adaptive Sporesinger",
+    "nameJa": "適応体の胞子歌い"
+  },
+  {
+    "nameEn": "Against All Odds",
+    "nameJa": "万難を排して"
+  },
+  {
+    "nameEn": "All Will Be One",
+    "nameJa": "完全なる統一"
+  },
+  {
+    "nameEn": "Ambulatory Edifice",
+    "nameJa": "歩行型建造物"
+  },
+  {
+    "nameEn": "Annex Sentry",
+    "nameJa": "別館の歩哨"
+  },
+  {
+    "nameEn": "Annihilating Glare",
+    "nameJa": "滅殺の眼差し"
+  },
+  {
+    "nameEn": "Anoint with Affliction",
+    "nameJa": "苦痛ある選定"
+  },
+  {
+    "nameEn": "Apostle of Invasion",
+    "nameJa": "侵略の使徒"
+  },
+  {
+    "nameEn": "Archfiend of the Dross",
+    "nameJa": "ドロスの魔神"
+  },
+  {
+    "nameEn": "Argentum Masticore",
+    "nameJa": "アージェンタムのマスティコア"
+  },
+  {
+    "nameEn": "Armored Scrapgorger",
+    "nameJa": "硬化した屑鉄喰らい"
+  },
+  {
+    "nameEn": "Aspirant's Ascent",
+    "nameJa": "有貌体の向上"
+  },
+  {
+    "nameEn": "Atmosphere Surgeon",
+    "nameJa": "大気の外科医"
+  },
+  {
+    "nameEn": "Atraxa, Grand Unifier",
+    "nameJa": "偉大なる統一者、アトラクサ"
+  },
+  {
+    "nameEn": "Atraxa's Skitterfang",
+    "nameJa": "アトラクサの疾牙"
+  },
+  {
+    "nameEn": "Awaken the Sleeper",
+    "nameJa": "潜伏工作員の目覚め"
+  },
+  {
+    "nameEn": "Axiom Engraver",
+    "nameJa": "アクシオムの彫版師"
+  },
+  {
+    "nameEn": "Barbed Batterfist",
+    "nameJa": "逆棘の叩拳"
+  },
+  {
+    "nameEn": "Basilica Shepherd",
+    "nameJa": "聖堂の導き手"
+  },
+  {
+    "nameEn": "Basilica Skullbomb",
+    "nameJa": "聖堂の頭蓋爆弾"
+  },
+  {
+    "nameEn": "Bilious Skulldweller",
+    "nameJa": "多汁質の頭蓋住まい"
+  },
+  {
+    "nameEn": "Blackcleave Cliffs",
+    "nameJa": "黒割れの崖"
+  },
+  {
+    "nameEn": "Black Sun's Twilight",
+    "nameJa": "黒の太陽の黄昏"
+  },
+  {
+    "nameEn": "Bladed Ambassador",
+    "nameJa": "刃ある大使"
+  },
+  {
+    "nameEn": "Bladegraft Aspirant",
+    "nameJa": "刃継ぎの有貌体"
+  },
+  {
+    "nameEn": "Bladehold War-Whip",
+    "nameJa": "刃砦の戦鞭"
+  },
+  {
+    "nameEn": "Blade of Shared Souls",
+    "nameJa": "共同魂の刃"
+  },
+  {
+    "nameEn": "Blazing Crescendo",
+    "nameJa": "猛火の最高潮"
+  },
+  {
+    "nameEn": "Blightbelly Rat",
+    "nameJa": "腐り腹のネズミ"
+  },
+  {
+    "nameEn": "Bloated Contaminator",
+    "nameJa": "ふくれた汚染者"
+  },
+  {
+    "nameEn": "Blue Sun's Twilight",
+    "nameJa": "青の太陽の黄昏"
+  },
+  {
+    "nameEn": "Bonepicker Skirge",
+    "nameJa": "骨拾いのスカージ"
+  },
+  {
+    "nameEn": "Branchblight Stalker",
+    "nameJa": "枝枯らしの忍び寄り"
+  },
+  {
+    "nameEn": "Bring the Ending",
+    "nameJa": "終焉よ来たれ"
+  },
+  {
+    "nameEn": "Cacophony Scamp",
+    "nameJa": "騒音の悪獣"
+  },
+  {
+    "nameEn": "Cankerbloom",
+    "nameJa": "腐れ花"
+  },
+  {
+    "nameEn": "Capricious Hellraiser",
+    "nameJa": "気まぐれな厄介者"
+  },
+  {
+    "nameEn": "Carnivorous Canopy",
+    "nameJa": "人喰い梢"
+  },
+  {
+    "nameEn": "Cephalopod Sentry",
+    "nameJa": "頭足類の歩哨"
+  },
+  {
+    "nameEn": "Charforger",
+    "nameJa": "炭鍛冶"
+  },
+  {
+    "nameEn": "Charge of the Mites",
+    "nameJa": "ダニの突撃"
+  },
+  {
+    "nameEn": "Chimney Rabble",
+    "nameJa": "煙突の扇動者"
+  },
+  {
+    "nameEn": "Chittering Skitterling",
+    "nameJa": "騒がしい這い回り"
+  },
+  {
+    "nameEn": "Chrome Prowler",
+    "nameJa": "金属のうろつくもの"
+  },
+  {
+    "nameEn": "Churning Reservoir",
+    "nameJa": "逆巻く貯蔵器"
+  },
+  {
+    "nameEn": "Cinderslash Ravager",
+    "nameJa": "燃えがら斬りの荒廃者"
+  },
+  {
+    "nameEn": "Compleat Devotion",
+    "nameJa": "完成化の祈り"
+  },
+  {
+    "nameEn": "Conduit of Worlds",
+    "nameJa": "世界の導管"
+  },
+  {
+    "nameEn": "Contagious Vorrac",
+    "nameJa": "伝染病のヴォラック"
+  },
+  {
+    "nameEn": "Copperline Gorge",
+    "nameJa": "銅線の地溝"
+  },
+  {
+    "nameEn": "Copper Longlegs",
+    "nameJa": "銅の足長虫"
+  },
+  {
+    "nameEn": "Crawling Chorus",
+    "nameJa": "這い回る合唱者"
+  },
+  {
+    "nameEn": "Cruel Grimnarch",
+    "nameJa": "残虐の陰皇"
+  },
+  {
+    "nameEn": "Cutthroat Centurion",
+    "nameJa": "殺しの百長"
+  },
+  {
+    "nameEn": "Darkslick Shores",
+    "nameJa": "闇滑りの岸"
+  },
+  {
+    "nameEn": "Distorted Curiosity",
+    "nameJa": "歪められた好奇心"
+  },
+  {
+    "nameEn": "Dragonwing Glider",
+    "nameJa": "竜翼の滑空者"
+  },
+  {
+    "nameEn": "Drivnod, Carnage Dominus",
+    "nameJa": "修羅のドミヌス、ドリヴノッド"
+  },
+  {
+    "nameEn": "Dross Skullbomb",
+    "nameJa": "ドロスの頭蓋爆弾"
+  },
+  {
+    "nameEn": "Drown in Ichor",
+    "nameJa": "胆液まみれ"
+  },
+  {
+    "nameEn": "Duelist of Deep Faith",
+    "nameJa": "信念堅い決闘者"
+  },
+  {
+    "nameEn": "Dune Mover",
+    "nameJa": "砂丘動かし"
+  },
+  {
+    "nameEn": "Duress",
+    "nameJa": "強迫"
+  },
+  {
+    "nameEn": "Elesh Norn, Mother of Machines",
+    "nameJa": "機械の母、エリシュ・ノーン"
+  },
+  {
+    "nameEn": "Encroaching Mycosynth",
+    "nameJa": "浸食するマイコシンス"
+  },
+  {
+    "nameEn": "Escaped Experiment",
+    "nameJa": "逃亡した実験体"
+  },
+  {
+    "nameEn": "Evolved Spinoderm",
+    "nameJa": "進化したスパイノダーム"
+  },
+  {
+    "nameEn": "Evolving Adaptive",
+    "nameJa": "進化する適応体"
+  },
+  {
+    "nameEn": "Expand the Sphere",
+    "nameJa": "球層の拡大"
+  },
+  {
+    "nameEn": "Experimental Augury",
+    "nameJa": "実験的占い"
+  },
+  {
+    "nameEn": "Exuberant Fuseling",
+    "nameJa": "溌剌としたヒューズリング"
+  },
+  {
+    "nameEn": "Eye of Malcator",
+    "nameJa": "マルカトールの眼"
+  },
+  {
+    "nameEn": "Ezuri, Stalker of Spheres",
+    "nameJa": "球層の追跡者、エズーリ"
+  },
+  {
+    "nameEn": "Feed the Infection",
+    "nameJa": "感染肥やし"
+  },
+  {
+    "nameEn": "Flensing Raptor",
+    "nameJa": "肉剥ぎの猛禽"
+  },
+  {
+    "nameEn": "Fleshless Gladiator",
+    "nameJa": "肉なし剣闘士"
+  },
+  {
+    "nameEn": "Font of Progress",
+    "nameJa": "発展の源"
+  },
+  {
+    "nameEn": "Forest",
+    "nameJa": "森"
+  },
+  {
+    "nameEn": "Forgehammer Centurion",
+    "nameJa": "鍛冶鎚の百長"
+  },
+  {
+    "nameEn": "Free from Flesh",
+    "nameJa": "肉体からの解放"
+  },
+  {
+    "nameEn": "Furnace Punisher",
+    "nameJa": "焼炉の懲罰者"
+  },
+  {
+    "nameEn": "Furnace Skullbomb",
+    "nameJa": "焼炉の頭蓋爆弾"
+  },
+  {
+    "nameEn": "Furnace Strider",
+    "nameJa": "焼炉の徘徊者"
+  },
+  {
+    "nameEn": "Geth, Thane of Contracts",
+    "nameJa": "契約の族長、ゲス"
+  },
+  {
+    "nameEn": "Gitaxian Anatomist",
+    "nameJa": "ギタクシア派の解剖学者"
+  },
+  {
+    "nameEn": "Gitaxian Raptor",
+    "nameJa": "ギタクシア派の猛禽"
+  },
+  {
+    "nameEn": "Gleeful Demolition",
+    "nameJa": "上機嫌の解体"
+  },
+  {
+    "nameEn": "Glissa Sunslayer",
+    "nameJa": "グリッサ・サンスレイヤー"
+  },
+  {
+    "nameEn": "Glistener Seer",
+    "nameJa": "ぎらつく予見者"
+  },
+  {
+    "nameEn": "Goldwarden's Helm",
+    "nameJa": "黄金守護の兜"
+  },
+  {
+    "nameEn": "Goliath Hatchery",
+    "nameJa": "ゴライアスの孵卵場"
+  },
+  {
+    "nameEn": "Graaz, Unstoppable Juggernaut",
+    "nameJa": "止められぬ巨大戦車、グラーツ"
+  },
+  {
+    "nameEn": "Green Sun's Twilight",
+    "nameJa": "緑の太陽の黄昏"
+  },
+  {
+    "nameEn": "Gulping Scraptrap",
+    "nameJa": "丸呑みの屑鉄罠"
+  },
+  {
+    "nameEn": "Hazardous Blast",
+    "nameJa": "危険な爆風"
+  },
+  {
+    "nameEn": "Hexgold Halberd",
+    "nameJa": "呪い金の矛槍"
+  },
+  {
+    "nameEn": "Hexgold Hoverwings",
+    "nameJa": "呪い金の浮遊翼"
+  },
+  {
+    "nameEn": "Hexgold Slash",
+    "nameJa": "呪い金の斬撃"
+  },
+  {
+    "nameEn": "Ichormoon Gauntlet",
+    "nameJa": "胆液月の篭手"
+  },
+  {
+    "nameEn": "Ichorplate Golem",
+    "nameJa": "胆液板のゴーレム"
+  },
+  {
+    "nameEn": "Ichorspit Basilisk",
+    "nameJa": "胆液吐きのバジリスク"
+  },
+  {
+    "nameEn": "Ichor Synthesizer",
+    "nameJa": "胆液の合成者"
+  },
+  {
+    "nameEn": "Incisor Glider",
+    "nameJa": "切歯の滑空機"
+  },
+  {
+    "nameEn": "Incubation Sac",
+    "nameJa": "胎嚢"
+  },
+  {
+    "nameEn": "Indoctrination Attendant",
+    "nameJa": "教化案内人"
+  },
+  {
+    "nameEn": "Infectious Bite",
+    "nameJa": "伝染する一噛み"
+  },
+  {
+    "nameEn": "Infectious Inquiry",
+    "nameJa": "伝染性尋問"
+  },
+  {
+    "nameEn": "Infested Fleshcutter",
+    "nameJa": "感染した肉裁ち"
+  },
+  {
+    "nameEn": "Island",
+    "nameJa": "島"
+  },
+  {
+    "nameEn": "Jace, the Perfected Mind",
+    "nameJa": "完成化した精神、ジェイス"
+  },
+  {
+    "nameEn": "Jawbone Duelist",
+    "nameJa": "顎骨の決闘者"
+  },
+  {
+    "nameEn": "Jor Kadeen, First Goldwarden",
+    "nameJa": "最初の黄金守護、ジョー・カディーン"
+  },
+  {
+    "nameEn": "Kaito, Dancing Shadow",
+    "nameJa": "踊る影、魁渡"
+  },
+  {
+    "nameEn": "Karumonix, the Rat King",
+    "nameJa": "ネズミの王、カルモニクス"
+  },
+  {
+    "nameEn": "Kaya, Intangible Slayer",
+    "nameJa": "無形の処刑者、ケイヤ"
+  },
+  {
+    "nameEn": "Kemba, Kha Enduring",
+    "nameJa": "耐え忍ぶカー、ケンバ"
+  },
+  {
+    "nameEn": "Kethek, Crucible Goliath",
+    "nameJa": "るつぼのゴライアス、ケテク"
+  },
+  {
+    "nameEn": "Kinzu of the Bleak Coven",
+    "nameJa": "冷たき集いのキンズー"
+  },
+  {
+    "nameEn": "Koth, Fire of Resistance",
+    "nameJa": "レジスタンスの火、コス"
+  },
+  {
+    "nameEn": "Kuldotha Cackler",
+    "nameJa": "カルドーサの哄笑者"
+  },
+  {
+    "nameEn": "Lattice-Blade Mantis",
+    "nameJa": "格子刃のカマキリ"
+  },
+  {
+    "nameEn": "Leonin Lightbringer",
+    "nameJa": "レオニンの光もたらす者"
+  },
+  {
+    "nameEn": "Lukka, Bound to Ruin",
+    "nameJa": "免れ得ぬ破滅、ルーカ"
+  },
+  {
+    "nameEn": "Magmatic Sprinter",
+    "nameJa": "マグマの疾走者"
+  },
+  {
+    "nameEn": "Malcator, Purity Overseer",
+    "nameJa": "純潔の監視者、マルカトール"
+  },
+  {
+    "nameEn": "Malcator's Watcher",
+    "nameJa": "マルカトールの監視者"
+  },
+  {
+    "nameEn": "Mandible Justiciar",
+    "nameJa": "大顎の大司法官"
+  },
+  {
+    "nameEn": "Maze Skullbomb",
+    "nameJa": "迷宮の頭蓋爆弾"
+  },
+  {
+    "nameEn": "Maze's Mantle",
+    "nameJa": "迷宮の外套"
+  },
+  {
+    "nameEn": "Meldweb Curator",
+    "nameJa": "脳網の管理者"
+  },
+  {
+    "nameEn": "Meldweb Strider",
+    "nameJa": "脳網の徘徊者"
+  },
+  {
+    "nameEn": "Melira, the Living Cure",
+    "nameJa": "生ける治療、メリーラ"
+  },
+  {
+    "nameEn": "Mercurial Spelldancer",
+    "nameJa": "気まぐれな呪文踊り"
+  },
+  {
+    "nameEn": "Mesmerizing Dose",
+    "nameJa": "眩惑の妙薬"
+  },
+  {
+    "nameEn": "Migloz, Maze Crusher",
+    "nameJa": "迷宮壊し、ミグロズ"
+  },
+  {
+    "nameEn": "Mindsplice Apparatus",
+    "nameJa": "精神接合器"
+  },
+  {
+    "nameEn": "Minor Misstep",
+    "nameJa": "軽微なつまづき"
+  },
+  {
+    "nameEn": "Mirran Bardiche",
+    "nameJa": "ミラディンのバルディッシュ"
+  },
+  {
+    "nameEn": "Mirran Safehouse",
+    "nameJa": "ミラディン人の隠れ家"
+  },
+  {
+    "nameEn": "Mirrex",
+    "nameJa": "ミレックス"
+  },
+  {
+    "nameEn": "Mite Overseer",
+    "nameJa": "ダニの監視者"
+  },
+  {
+    "nameEn": "Molten Rebuke",
+    "nameJa": "溶鉄の咎め"
+  },
+  {
+    "nameEn": "Mondrak, Glory Dominus",
+    "nameJa": "栄光のドミヌス、モンドラク"
+  },
+  {
+    "nameEn": "Monument to Perfection",
+    "nameJa": "完全化記念碑"
+  },
+  {
+    "nameEn": "Mountain",
+    "nameJa": "山"
+  },
+  {
+    "nameEn": "Myr Convert",
+    "nameJa": "マイアの改宗者"
+  },
+  {
+    "nameEn": "Myr Custodian",
+    "nameJa": "マイアの守衛"
+  },
+  {
+    "nameEn": "Myr Kinsmith",
+    "nameJa": "マイアの同族鍛冶"
+  },
+  {
+    "nameEn": "Nahiri's Sacrifice",
+    "nameJa": "ナヒリの生け贄"
+  },
+  {
+    "nameEn": "Nahiri, the Unforgiving",
+    "nameJa": "慈悲無き者、ナヒリ"
+  },
+  {
+    "nameEn": "Necrogen Communion",
+    "nameJa": "屍気の拝領"
+  },
+  {
+    "nameEn": "Necrogen Rotpriest",
+    "nameJa": "屍気の腐敗僧"
+  },
+  {
+    "nameEn": "Necrosquito",
+    "nameJa": "屍蚊"
+  },
+  {
+    "nameEn": "Nimraiser Paladin",
+    "nameJa": "屍賊起こしの聖騎士"
+  },
+  {
+    "nameEn": "Nissa, Ascended Animist",
+    "nameJa": "向上した精霊信者、ニッサ"
+  },
+  {
+    "nameEn": "Norn's Wellspring",
+    "nameJa": "ノーンの水源"
+  },
+  {
+    "nameEn": "Noxious Assault",
+    "nameJa": "有毒の突撃"
+  },
+  {
+    "nameEn": "Offer Immortality",
+    "nameJa": "不死性の提供"
+  },
+  {
+    "nameEn": "Oil-Gorger Troll",
+    "nameJa": "油喰らいのトロール"
+  },
+  {
+    "nameEn": "Orthodoxy Enforcer",
+    "nameJa": "正典の執行者"
+  },
+  {
+    "nameEn": "Ossification",
+    "nameJa": "骨化"
+  },
+  {
+    "nameEn": "Ovika, Enigma Goliath",
+    "nameJa": "謎のゴライアス、オヴィカ"
+  },
+  {
+    "nameEn": "Oxidda Finisher",
+    "nameJa": "オキシダの懐刀"
+  },
+  {
+    "nameEn": "Paladin of Predation",
+    "nameJa": "捕食の聖騎士"
+  },
+  {
+    "nameEn": "Pestilent Syphoner",
+    "nameJa": "伝染させる吸血者"
+  },
+  {
+    "nameEn": "Phyrexian Arena",
+    "nameJa": "ファイレクシアの闘技場"
+  },
+  {
+    "nameEn": "Phyrexian Atlas",
+    "nameJa": "ファイレクシアの大地図"
+  },
+  {
+    "nameEn": "Phyrexian Obliterator",
+    "nameJa": "ファイレクシアの抹消者"
+  },
+  {
+    "nameEn": "Phyrexian Vindicator",
+    "nameJa": "ファイレクシアの立証者"
+  },
+  {
+    "nameEn": "Plague Nurse",
+    "nameJa": "疫病の看護者"
+  },
+  {
+    "nameEn": "Plains",
+    "nameJa": "平地"
+  },
+  {
+    "nameEn": "Planar Disruption",
+    "nameJa": "次元の撹乱"
+  },
+  {
+    "nameEn": "Plated Onslaught",
+    "nameJa": "板金鎧の猛攻"
+  },
+  {
+    "nameEn": "Porcelain Zealot",
+    "nameJa": "磁器の盲信者"
+  },
+  {
+    "nameEn": "Predation Steward",
+    "nameJa": "捕食の世話役"
+  }
+]
