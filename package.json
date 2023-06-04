@@ -4,6 +4,7 @@
   "description": "Insert Japanese card name",
   "private": true,
   "scripts": {
+    "fetch": "deno run --allow-net --allow-write ./lib/fetchCardData.ts",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack",
     "watch": "webpack --watch"

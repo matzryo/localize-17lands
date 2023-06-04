@@ -11,5 +11,7 @@
       "moduleResolution": "node",
       "resolveJsonModule": true,
       "allowSyntheticDefaultImports": true,
-    }
+    },
+    // Denoで動かす補助スクリプトは拡張機能本体には含めない。
+    "exclude": ["./lib/fetchCardData.ts"]
   }
