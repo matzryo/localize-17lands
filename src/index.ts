@@ -1,13 +1,18 @@
-import nameCorrespondence from "../data/ONE.json" assert { type: "json" };
+import nameCorrespondence from "../data/MOM.json" assert { type: "json" };
 
-var writeTogether = ({ nameEn, nameJa }: { nameEn: string; nameJa: string }) =>
+interface PairOfCardNames {
+  nameEn: string;
+  nameJa: string;
+}
+
+var writeTogether = ({ nameEn, nameJa }: PairOfCardNames) =>
   [nameEn, nameJa].join(" / ");
 
 var cardNameCells = document.querySelectorAll<HTMLDivElement>(
   "table .list_card_name"
 );
 
-nameCorrespondence.data.forEach((names) => {
+nameCorrespondence.forEach((names) => {
   cardNameCells.forEach((cell) => {
     if (cell.textContent === names.nameEn) {
       cell.textContent = writeTogether(names);
